@@ -34,9 +34,24 @@ time.sleep(2) #wait for 2 sec
 addToCart = driver.find_element(By.XPATH,"//button[contains(@id,'sauce-labs-bolt-t-shirt')]")
 addToCart.click()
 time.sleep(2) #wait for 2 sec
-#Locate the My shopping cart
+#Locate the my shopping cart
 ShoppingCart= driver.find_element(By.XPATH,"//a[@class='shopping_cart_link']")
 ShoppingCart.click()
+time.sleep(2)
+
+#Now we will see, how the TEXT METHODS works.  Syntax: //tagname[text() = 'Exact Text Here']
+# When to use it: Use text() when the text of the element is static and won't change. For example, to find a button with the text "Log In" exactly as it appears. Ekhane text ta exact same copy kora lagbe.
+
+#text() ---> Locate the Continue Shopping button with the TEXT methode and Click on this.
+ContinueButton= driver.find_element(By.XPATH,"//button[text()= 'Continue Shopping']")
+ContinueButton.click()
+time.sleep(2)
+
+#contains() ---> you can ignore the dynamic part and just focus on what's always the same; Syntax: //tagname[contains(@attribute, 'value')]; When attributes value will be so long or it is dynamically changing then we use the contains methode and copy some partial match value not the full value.
+#Locate the addToCart using the contains methode
+addToCart2=driver.find_element(By.XPATH,"//button[contains(@id,'sauce-labs-bike-ligh')]")
+addToCart2.click()
+
 time.sleep(8) #wait for 5 sec
 #browser close
 driver.quit()
