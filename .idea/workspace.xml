@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0ff8766-37ef-4bca-86f7-8a2298ff80b5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Session1_Testing/Xpath_Condition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session1_Testing/Css_Selector.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Session1_Testing/Basic_Locators.py" beforeDir="false" afterPath="$PROJECT_DIR$/Session1_Testing/Basic_Locators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session1_Testing/Xpath_Condition.py" beforeDir="false" afterPath="$PROJECT_DIR$/Session1_Testing/Xpath_Condition.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +37,7 @@
   "keyToString": {
     "Python.Basic_Locators.executor": "Run",
     "Python.Basics.executor": "Run",
+    "Python.Css_Selector.executor": "Run",
     "Python.VerifySetup.executor": "Run",
     "Python.Xpath_Condition.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -47,7 +48,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "settings.editor.selected.configurable": "preferences.editor",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -76,7 +77,9 @@
       <workItem from="1756447869694" duration="596000" />
       <workItem from="1756457455758" duration="1500000" />
       <workItem from="1756463073719" duration="9916000" />
-      <workItem from="1756476942581" duration="7501000" />
+      <workItem from="1756476942581" duration="8218000" />
+      <workItem from="1756531662462" duration="10107000" />
+      <workItem from="1756560846192" duration="8644000" />
     </task>
     <servers />
   </component>
@@ -84,9 +87,10 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/WebAutomationForBeginner$Xpath_Condition.coverage" NAME="Xpath_Condition Coverage Results" MODIFIED="1756489819069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Session1_Testing" />
+    <SUITE FILE_PATH="coverage/WebAutomationForBeginner$Xpath_Condition.coverage" NAME="Xpath_Condition Coverage Results" MODIFIED="1756574156896" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Session1_Testing" />
     <SUITE FILE_PATH="coverage/WebAutomationForBeginner$Basic_Locators.coverage" NAME="Basic_Locators Coverage Results" MODIFIED="1756469920838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Session1_Testing" />
     <SUITE FILE_PATH="coverage/WebAutomationForBeginner$VerifySetup.coverage" NAME="VerifySetup Coverage Results" MODIFIED="1756308835725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Session1_Testing" />
     <SUITE FILE_PATH="coverage/WebAutomationForBeginner$Basics.coverage" NAME="Basics Coverage Results" MODIFIED="1756302792452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Session1_Testing" />
+    <SUITE FILE_PATH="coverage/WebAutomationForBeginner$Css_Selector.coverage" NAME="Css_Selector Coverage Results" MODIFIED="1756573915205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Session1_Testing" />
   </component>
 </project>
