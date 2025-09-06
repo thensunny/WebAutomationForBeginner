@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0ff8766-37ef-4bca-86f7-8a2298ff80b5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Session1_Testing/Basic_Locators_Multiple_Elements.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session1_Testing/Basic_Locators_Multiple_Elements.py" beforeDir="false" afterPath="$PROJECT_DIR$/Session1_Testing/Basic_Locators_Multiple_Elements.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,26 +32,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Basic_Locators.executor": "Run",
-    "Python.Basic_Locators_Multiple_Elements.executor": "Run",
-    "Python.Basics.executor": "Run",
-    "Python.Css_Selector.executor": "Run",
-    "Python.VerifySetup.executor": "Run",
-    "Python.Xpath_Condition.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.editor",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Basic_Locators.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Basic_Locators_Multiple_Elements.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Basics.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Css_Selector.executor&quot;: &quot;Run&quot;,
+    &quot;Python.VerifySetup.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Xpath_Condition.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -80,7 +81,9 @@
       <workItem from="1756531662462" duration="10107000" />
       <workItem from="1756560846192" duration="9167000" />
       <workItem from="1756826198147" duration="4421000" />
-      <workItem from="1756915669512" duration="3431000" />
+      <workItem from="1756915669512" duration="3615000" />
+      <workItem from="1757089632227" duration="3301000" />
+      <workItem from="1757138350936" duration="10888000" />
     </task>
     <servers />
   </component>
@@ -89,7 +92,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/WebAutomationForBeginner$Xpath_Condition.coverage" NAME="Xpath_Condition Coverage Results" MODIFIED="1756830849311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Session1_Testing" />
-    <SUITE FILE_PATH="coverage/WebAutomationForBeginner$Basic_Locators_Multiple_Elements.coverage" NAME="Basic_Locators_Multiple_Elements Coverage Results" MODIFIED="1756918934397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Session1_Testing" />
+    <SUITE FILE_PATH="coverage/WebAutomationForBeginner$Basic_Locators_Multiple_Elements.coverage" NAME="Basic_Locators_Multiple_Elements Coverage Results" MODIFIED="1757175952127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Session1_Testing" />
     <SUITE FILE_PATH="coverage/WebAutomationForBeginner$Basic_Locators.coverage" NAME="Basic_Locators Coverage Results" MODIFIED="1756469920838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Session1_Testing" />
     <SUITE FILE_PATH="coverage/WebAutomationForBeginner$VerifySetup.coverage" NAME="VerifySetup Coverage Results" MODIFIED="1756308835725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Session1_Testing" />
     <SUITE FILE_PATH="coverage/WebAutomationForBeginner$Basics.coverage" NAME="Basics Coverage Results" MODIFIED="1756302792452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Session1_Testing" />

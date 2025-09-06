@@ -161,3 +161,31 @@ The script highlights key CSS selector syntax, including:
 This file is an excellent resource for understanding how to write clear, efficient, and robust locators using CSS selectors, which are an essential tool in any web automation project.
 
 
+I cannot directly create the file for you, but here is the content for the `README.md` file based on your script, presented in a structured overview.
+
+---
+
+## **File Overview: `Basic_Locators_Multiple_Elements.py`**
+
+This document provides a concise overview of the Python script `Basic_Locators_Multiple_Elements.py`, which uses **Selenium** to automate a simple login process.
+
+### **Purpose**
+
+The primary purpose of this script is to demonstrate how to use `find_elements()` in Selenium to locate and interact with multiple web elements that share the same tag name, specifically the `username` and `password` input fields on the SauceDemo login page.
+
+### **Core Functionality**
+
+The script automates the following sequence of actions:
+1.  **Browser Initialization**: Launches and maximizes a Chrome browser window.
+2.  **Navigation**: Navigates to `https://www.saucedemo.com`.
+3.  **Element Identification**: Finds all elements with the `input` tag using `find_elements(By.TAG_NAME, "input")` and stores them in a list.
+4.  **Data Input**: Enters the standard login credentials (`standard_user` and `secret_sauce`) into the first two input fields of the list, which correspond to the username and password.
+5.  **Login Action**: Clicks the third input element, which serves as the login button.
+6.  **Data Retrieval**: Finds all product names on the subsequent page and prints them to the console.
+7.  **Termination**: Closes the browser after a brief pause.
+
+### **Key Concepts**
+
+* `find_elements()`: This method returns a list of web elements. It is particularly useful for finding multiple elements of the same type, such as all input fields on a form.
+* `By.TAG_NAME`: A locator strategy used to find elements based on their HTML tag name (e.g., `input`, `div`, `button`).
+* **List Indexing**: The script relies on the predictable order of elements returned by `find_elements()` to access and interact with them using list indices (e.g., `input_fields[0]`).
