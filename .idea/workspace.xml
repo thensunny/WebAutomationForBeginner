@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0ff8766-37ef-4bca-86f7-8a2298ff80b5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Session 2/Checkbox.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session 2/CheckboxMethod2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session 2/Fetch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session 2/RadioButton.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session 2/SingleSelectDropdown.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Session1_Testing/Basic_Locators_Multiple_Elements.py" beforeDir="false" afterPath="$PROJECT_DIR$/Session1_Testing/Basic_Locators_Multiple_Elements.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,30 +35,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Basic_Locators.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Basic_Locators_Multiple_Elements.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Basics.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Css_Selector.executor&quot;: &quot;Run&quot;,
-    &quot;Python.VerifySetup.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Xpath_Condition.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Basic_Locators.executor": "Run",
+    "Python.Basic_Locators_Multiple_Elements.executor": "Run",
+    "Python.Basics.executor": "Run",
+    "Python.Checkbox.executor": "Run",
+    "Python.CheckboxMethod2.executor": "Run",
+    "Python.Css_Selector.executor": "Run",
+    "Python.Fetch.executor": "Run",
+    "Python.RadioButton.executor": "Run",
+    "Python.SingleSelectDropdown.executor": "Run",
+    "Python.VerifySetup.executor": "Run",
+    "Python.Xpath_Condition.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.editor",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-6a121458b545-JavaScript-PY-251.25410.159" />
         <option value="bundled-python-sdk-e0ed3721d81e-36ea0e71a18c-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.25410.159" />
       </set>
     </attachedChunks>
@@ -83,7 +90,11 @@
       <workItem from="1756826198147" duration="4421000" />
       <workItem from="1756915669512" duration="3615000" />
       <workItem from="1757089632227" duration="3301000" />
-      <workItem from="1757138350936" duration="10888000" />
+      <workItem from="1757138350936" duration="11167000" />
+      <workItem from="1758299059510" duration="15000" />
+      <workItem from="1758348555641" duration="8906000" />
+      <workItem from="1758636735329" duration="2132000" />
+      <workItem from="1758976778956" duration="19000" />
     </task>
     <servers />
   </component>
@@ -96,6 +107,8 @@
     <SUITE FILE_PATH="coverage/WebAutomationForBeginner$Basic_Locators.coverage" NAME="Basic_Locators Coverage Results" MODIFIED="1756469920838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Session1_Testing" />
     <SUITE FILE_PATH="coverage/WebAutomationForBeginner$VerifySetup.coverage" NAME="VerifySetup Coverage Results" MODIFIED="1756308835725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Session1_Testing" />
     <SUITE FILE_PATH="coverage/WebAutomationForBeginner$Basics.coverage" NAME="Basics Coverage Results" MODIFIED="1756302792452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Session1_Testing" />
+    <SUITE FILE_PATH="coverage/WebAutomationForBeginner$Checkbox.coverage" NAME="Checkbox Coverage Results" MODIFIED="1758637863838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Session 2" />
     <SUITE FILE_PATH="coverage/WebAutomationForBeginner$Css_Selector.coverage" NAME="Css_Selector Coverage Results" MODIFIED="1756916399746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Session1_Testing" />
+    <SUITE FILE_PATH="coverage/WebAutomationForBeginner$Fetch.coverage" NAME="Fetch Coverage Results" MODIFIED="1758368867542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Session 2" />
   </component>
 </project>
